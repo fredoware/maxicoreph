@@ -40,6 +40,35 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+p {
+  text-align: justify;
+}
+
+
+.clickable:hover{
+  cursor: pointer;
+  background: #d9d9d9;
+}
+
+.va-tab{
+  height: 100px;
+}
+
+.va-tab-content{
+  height: 200px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.h3-header, .modal-title {
+  color: var(--text-color);
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: var(--text-color) !important;
+    border: var(--text-color) !important;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -239,7 +268,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #fd3800;
+  background: var(--text-color);
   border-color: var(--text-color);
 }
 

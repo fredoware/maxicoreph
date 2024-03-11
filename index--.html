@@ -52,9 +52,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#coreValues">Core Values</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#whyChooseUs">Why Chose Us</a></li>
+          <li><a class="nav-link scrollto " href="#whyChooseUs">Why Choose Us</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
@@ -66,10 +65,10 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">
-    <div class="hero-container" data-aos="fade-up" data-aos-delay="150">
-      <h1>Welcome to Maxicore Philippines</h1>
-      <h2>Maximizing Core Potential! </h2>
-      <div class="d-flex">
+    <div class="hero-container">
+      <h1  data-aos="zoom-in" data-aos-delay="150">Welcome to Maxicore Philippines</h1>
+      <h2  data-aos="fade-up" data-aos-delay="600">Maximizing Core Potential</h2>
+      <div class="d-flex" data-aos="fade-up" data-aos-delay="1000">
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
       </div>
     </div>
@@ -78,8 +77,13 @@
   <main id="main">
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <section id="about">
+
+
       <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <p>About Us</p>
+        </div>
 
         <div class="row">
 
@@ -88,8 +92,7 @@
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content mt-3">
-            <h3>About Us</h3>
-            <br>
+
             <p>
               Maxicore Philippines is not just a business process outsourcing company; it is a dynamic force reshaping the landscape of outsourcing in the Philippines.
             <p>
@@ -115,7 +118,7 @@
         <div class="container" data-aos="fade-up">
 
           <div class="section-title">
-            <p>Mission Vision</p>
+            <p>Mission and Vision</p>
           </div>
 
           <div class="row">
@@ -203,7 +206,7 @@
           </li>
           <li class="nav-item col-lg">
             <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-              <h4>Skill Enhancement</h4>
+              <h4>Skills Enhancement</h4>
             </a>
           </li>
           <li class="nav-item col-lg">
@@ -216,16 +219,59 @@
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <p class="fst-italic">
-                <h3>Virtual Staffing</h3>
-                </p>
-                  <ul>
-                    <li> <b> Risk and Compliance, Anti-Money Laundering (AML), and Fraud Detection Service:</b> Our team of seasoned analysts ensures your business stays compliant and secure. </li>
-                    <li><b>Customer Services:</b> Trusted expertise in customer service to enhance client interactions. </li>
-                    <li><b>Medical Services:</b> Experienced medical assistants provide crucial support in the healthcare industry. </li>
-                    <li><b>General Virtual Assistant:</b> Skilled virtual assistants tackle diverse tasks, allowing you to focus on core competencies. </li>
-                  </ul>
-              </div>
+
+                <ul>
+                  <li data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="#"><i class="bi bi-caret-right-fill"></i> Hire a Virtual Assistant Now</a></li>
+                  <li> <a href="https://docs.google.com/forms/d/1D_K_TsYnUvaHBAzT9sSnuL_qvAI84osJmKlqy_GOodg/edit"><i class="bi bi-caret-right-fill"></i> Become Maxicore’s Independent Contractor</a></li>
+                </ul>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5">Hire a Virtual Assistant Now</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          <ul class="nav nav-tabs row" id="myTab" role="tablist">
+            <li class="nav-item col" role="presentation">
+              <button class="nav-link va-tab active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Medical Virtual Assistants</button>
+            </li>
+            <li class="nav-item col" role="presentation">
+              <button class="nav-link va-tab" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">General Virtual Assistants</button>
+            </li>
+            <li class="nav-item col" role="presentation">
+              <button class="nav-link va-tab" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">AML and Fraud Detection Analysts</button>
+            </li>
+          </ul>
+
+          <div class="tab-content va-tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+              <h3 class="h3-header">Medical Virtual Assistants</h3>
+              Experienced medical assistants provide crucial support in the healthcare industry.
+            </div>
+            <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+              <h3 class="h3-header">General Virtual Assistants</h3>
+              Skilled virtual assistants tackle diverse tasks, allowing you to focus on core competencies.
+            </div>
+            <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab" tabindex="0">
+              <h3 class="h3-header">AML and Fraud Detection Analysts</h3>
+              Our team of seasoned analysts ensures your business stays compliant and secure.
+            </div>
+          </div>
+
+          <div class="text-center mb-3">
+          <a href="https://docs.google.com/forms/d/1C359fAt-IRq8Be45ArWidAlqQFDPYrROxTWKkKdEA5o/edit" class="btn btn-primary">Get A Proposal from Maxicore</a>
+          <a href="#" class="btn btn-primary">Schedule a Call</a>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+                </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/features-1.png" alt="" class="img-fluid">
               </div>
@@ -234,30 +280,113 @@
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Skill Enhancement</h3>
+                <h3>Skills Enhancement</h3>
                 </p>
-                  <ul>
-                    <li>Maxicore provides targeted training and skills development programs for aspiring virtual assistants, ensuring they are equipped to excel in their roles.</li>
-                  </ul>
+                    <p>Maxicore provides targeted training and skills development programs for aspiring virtual assistants, ensuring they are equipped to excel in their roles.</p>
+
+                    <ul>
+                      <li><a href="#" data-bs-toggle="modal" data-bs-target="#generalModal"><i class="bi bi-caret-right-fill"></i> General Virtual Assistant Training and Certification</a></li>
+                      <li><a href="#" data-bs-toggle="modal" data-bs-target="#amlModal"><i class="bi bi-caret-right-fill"></i> Anti-money Laundering (AML) and Fraud Detection Analyst Training and Certification</a></li>
+                      <li><a href="#" data-bs-toggle="modal" data-bs-target="#medicalModal"><i class="bi bi-caret-right-fill"></i> Medical Virtual Assistant Training and Certification</a></li>
+                    </ul>
+
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/features-2.png" alt="" class="img-fluid">
               </div>
             </div>
+
+            <div class="modal fade" id="generalModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 class="modal-title fs-5">General Virtual Assistant Training and Certification</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                      Embark on a transformative learning experience with our General Virtual Assistant Training and Certification program. This comprehensive course is meticulously designed to empower individuals seeking to thrive in the dynamic realm of virtual assistance. Dive into a curriculum that covers a broad spectrum of skills, ranging from effective communication and time management to mastering the latest virtual tools and platforms. Our interactive learning approach incorporates hands-on activities, real-world simulations, and collaborative projects, ensuring you gain practical insights into the responsibilities of a virtual assistant.
+                    </p>
+
+                    <p>
+                      Upon successful completion of the program, you'll be awarded a prestigious certification, a testament to your acquired expertise and a valuable asset as you navigate the competitive landscape of virtual assistance. Beyond certification, we offer ongoing career support, connecting you with a network of professionals and providing resources to help you kickstart your career or enhance your existing virtual assistance business. Don't just settle for a job; empower your future by becoming a highly skilled and certified General Virtual Assistant. Your journey to success begins here!
+                    </p>
+                  </div>
+                  <div class="modal-footer">
+                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-primary">Enroll Now</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="modal fade" id="amlModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 class="modal-title fs-5">Anti-money Laundering (AML) and Fraud Detection Analyst Training and Certification</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                      Embark on a critical and impactful career path with our Anti-Money Laundering (AML) and Fraud Detection Analyst Training and Certification program. This comprehensive course is meticulously designed to equip individuals with the specialized skills required to combat financial crimes and protect businesses from illicit activities. Delve into a curriculum that covers the intricacies of anti-money laundering regulations, fraud detection techniques, and risk assessment methodologies. Our immersive training approach combines theoretical knowledge with practical case studies, ensuring you develop a deep understanding of the evolving landscape of financial crimes.
+                    </p>
+
+                    <p>
+                      Upon successful completion of the program, you'll earn a prestigious certification, validating your expertise as an AML and Fraud Detection Analyst. Beyond certification, our program offers ongoing support, connecting you with a network of professionals and providing resources to stay updated on the latest trends and technologies in the field. Join us in the crucial fight against financial crimes, and become a certified AML and Fraud Detection Analyst ready to safeguard businesses and financial institutions from unlawful activities. Your journey to a fulfilling and impactful career in financial security begins here!financial institutions from unlawful activities. Your journey to a fulfilling and impactful career in financial security begins here!
+                    </p>
+                  </div>
+                  <div class="modal-footer">
+                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-primary">Enroll Now</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="modal fade" id="medicalModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h1 class="modal-title fs-5">Medical Virtual Assistant Training and Certification</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <p>
+                      Embark on a transformative journey in healthcare support with our Medical Virtual Assistant Training and Certification program. Tailored for individuals aspiring to excel in the intersection of technology and healthcare, this comprehensive course equips you with the specialized skills needed to thrive as a medical virtual assistant. Delve into a curriculum that covers a range of topics, from medical terminology and HIPAA compliance to appointment scheduling and electronic health records management. Our immersive learning approach integrates practical scenarios and case studies, ensuring you develop the expertise required to navigate the intricacies of the healthcare industry.
+                    </p>
+
+                    <p>
+                      Upon successful completion of the program, you'll earn a prestigious certification, a testament to your proficiency in medical virtual assistance. Beyond certification, our program offers ongoing career support, connecting you with a network of professionals and providing resources to help you launch or advance your career in the healthcare sector. Join us in shaping the future of medical support services and become a certified Medical Virtual Assistant, ready to make a meaningful impact in the healthcare field. Your journey to a rewarding and impactful career starts here!
+                    </p>
+                  </div>
+                  <div class="modal-footer">
+                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-primary">Enroll Now</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
+
           </div>
+
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>Auxiliary Services</h3>
                 </p>
-                <ul>
-                  <li>BIR Tax Compliances: Our dedicated team assists freelancers, business owners, and the self-employed in filing taxes, easing bookkeeping burdens. </li>
-                </ul>
+                  <p>BIR Tax Compliances: Our dedicated team assists freelancers, business owners, and the self-employed in filing taxes, easing bookkeeping burdens. </p>
+
+                  <ul>
+                    <li><a href="#" data-bs-toggle="modal" data-bs-target="#birModal"><i class="bi bi-caret-right-fill"></i> Business Solutions and Tax Filing Services</a></li>
+                  </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/features-3.png" alt="" class="img-fluid">
               </div>
             </div>
+
+
           </div>
         </div>
 
@@ -351,22 +480,19 @@
 
           <div class="row">
             <div class="col-md-6">
-              <div class="info-box" style="height:250px">
+              <div class="info-box">
                 <i class="bx bx-map"></i>
                 <h3>Our Address</h3>
-                <p>Bacolod City, Philippines, 6100</p>
+                <div>Villa Angela, Bacolod City, Negros Occidental, Philippines 6100</div>
               </div>
             </div>
             <div class="col-md-6">
-              <div class="info-box" style="height:250px">
+              <div class="info-box">
                 <i class="bx bx-envelope"></i>
                 <h3>Email Us</h3>
-                <p>
-                  operations@maxicoreph.com<br>
-                  humanresources@maxicoreph.com<br>
-                  sales@maxicoreph.com <br>
-                  marketing@maxicoreph.com <br>
-                </p>
+                <div>
+                  operations@maxicoreph.com
+                </div>
               </div>
             </div>
           </div>
@@ -384,7 +510,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Maxicore Philippines</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Maxicore Philippines</span></strong>. All Rights Reserved.
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->

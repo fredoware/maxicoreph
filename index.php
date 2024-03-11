@@ -165,6 +165,11 @@
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
 
+                  <h3>Virtual Staffing</h3>
+                <p>
+                  Elevate your workforce with our virtual staffing service. Connect with top professionals globally, build a tailored remote team, and enjoy seamless collaboration through our advanced platform. Gain flexibility, adaptability, and unmatched efficiency for your business. Experience the future of remote work with us.
+                </p>
+
                 <ul>
                   <li data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="#"><i class="bi bi-caret-right-fill"></i> Hire a Virtual Assistant Now</a></li>
                   <li> <a href="https://docs.google.com/forms/d/1D_K_TsYnUvaHBAzT9sSnuL_qvAI84osJmKlqy_GOodg/edit"><i class="bi bi-caret-right-fill"></i> Become Maxicore’s Independent Contractor</a></li>
@@ -208,7 +213,8 @@
 
           <div class="text-center mb-3">
           <a href="https://docs.google.com/forms/d/1C359fAt-IRq8Be45ArWidAlqQFDPYrROxTWKkKdEA5o/edit" class="btn btn-primary">Get A Proposal from Maxicore</a>
-          <a href="#" class="btn btn-primary">Schedule a Call</a>
+          <br>
+          <a href="#" class="btn btn-primary mt-3">Schedule a Call</a>
           </div>
       </div>
     </div>

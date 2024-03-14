@@ -62,7 +62,7 @@
 
       <!-- <h1 class="logo"><a href="index.html">BizLand<span>.</span></a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.php" class="logo"><img src="assets/img/logo/maxicore-logo2.png" alt=""></a>
+      <a href="index.php"><img src="assets/img/logo/maxicore-logo2.png" style="height:50px;"></a>
 
       <nav id="navbar" class="navbar">
         <ul>

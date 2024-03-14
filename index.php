@@ -209,7 +209,7 @@
           <div class="text-center mb-3">
           <a href="https://docs.google.com/forms/d/1C359fAt-IRq8Be45ArWidAlqQFDPYrROxTWKkKdEA5o/edit" class="btn btn-primary">Get A Proposal from Maxicore</a>
           <br>
-          <a href="#" class="btn btn-primary mt-3">Schedule a Call</a>
+          <a href="https://calendly.com/maxicoreph/business-collaboration-meeting" class="btn btn-primary mt-3">Schedule a Call</a>
           </div>
       </div>
     </div>

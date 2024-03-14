@@ -10,12 +10,12 @@
   <meta property="og:title" content="<?=$ogTitle?>" />
   <meta property="og:url" content="<?=$ogUrl?>" />
   <meta property="og:image" content="<?=$ogImage?>" />
-
   <!-- Favicons -->
-  <link href="assets/img/logo/maxicore-icon.png" rel="icon">
+
+  <link href="assets/img/logo/favicon.png" rel="icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -23,16 +23,15 @@
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/altn.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Dewi
+  * Template Name: BizLand
   * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
+  * Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
@@ -40,13 +39,30 @@
 
 <body>
 
+  <!-- ======= Top Bar ======= -->
+<section id="topbar" class="d-flex align-items-center">
+  <div class="container d-flex justify-content-center justify-content-md-between">
+    <div class="contact-info d-flex align-items-center">
+      <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:operations@maxicoreph.com">operations@maxicoreph.com</a></i>
+    </div>
+    <div class="social-links d-none d-md-flex align-items-center">
+      <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+      <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+      <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+    </div>
+  </div>
+</section>
+
+
+
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top <?=$pageType?>">
+  <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <img src="assets/img/logo/maxicore-logo2.png" style="height:50px;">
+      <!-- <h1 class="logo"><a href="index.html">BizLand<span>.</span></a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.php" class="logo"><img src="assets/img/logo/maxicore-logo2.png" alt=""></a>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -55,7 +71,6 @@
           <li><a class="nav-link scrollto" href="index.php#services">Services</a></li>
           <li><a class="nav-link scrollto " href="index.php#whyChooseUs">Why Choose Us</a></li>
           <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="index.php#about">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

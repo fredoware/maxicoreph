@@ -3,21 +3,21 @@
   $ogTitle = 'Maxicore Philippines';
   $ogUrl = 'https://maxicoreph.com';
   $ogImage = 'assets/img/open-graph.png';
-  include "header.php";
+  include "altn-header.php";
 ?>
 
 
-
   <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <h1  data-aos="zoom-in" data-aos-delay="150">Welcome to Maxicore Philippines</h1>
+  <section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+      <h1  data-aos="zoom-in" data-aos-delay="150">Welcome to <br> <span>Maxicore Philippines</span></h1>
       <h2  data-aos="fade-up" data-aos-delay="600">Maximizing Core Potential</h2>
       <div class="d-flex" data-aos="fade-up" data-aos-delay="1000">
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
       </div>
     </div>
   </section><!-- End Hero -->
+
 
   <main id="main">
 
@@ -58,7 +58,7 @@
     </section><!-- End About Section -->
 
     <!-- ======= About Boxes Section ======= -->
-    <section id="about-boxes" class="about-boxes">
+    <section id="about-boxes" class="section-even">
 
         <div class="container" data-aos="fade-up">
 
@@ -97,28 +97,24 @@
             <div class="row">
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon-box">
-                  <i class="bi bi-1-circle"></i>
                   <h4><a href="#">Excellence</a></h4>
                   <p>Striving for excellence is not just a goal; it's a way of life at Maxicore. We are committed to surpassing expectations in everything we do.</p>
                 </div>
               </div>
               <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
                 <div class="icon-box">
-                  <i class="bi bi-2-circle"></i>
                   <h4><a href="#">Integrity</a></h4>
                   <p>Operating with unwavering honesty, transparency, and ethical practices, we build trust with our clients and team members alike. </p>
                 </div>
               </div>
               <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
                 <div class="icon-box">
-                  <i class="bi bi-3-circle"></i>
                   <h4><a href="#">Innovation</a></h4>
                   <p> Embracing creativity and innovation, we seek new and improved ways to meet the ever-evolving needs of businesses. </p>
                 </div>
               </div>
               <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="800">
                 <div class="icon-box">
-                  <i class="bi bi-4-circle"></i>
                   <h4><a href="#">Collaboration</a></h4>
                   <p>Teamwork is at the heart of our success. We believe in harnessing collective strengths to achieve common goals. </p>
                 </div>
@@ -126,7 +122,6 @@
 
               <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="1000">
                 <div class="icon-box">
-                  <i class="bi bi-5-circle"></i>
                   <h4><a href="#">Empowerment</a></h4>
                   <p>Our commitment is to empower businesses and individuals to unlock their full potential, fostering growth and success. </p>
                 </div>
@@ -138,7 +133,7 @@
         </section><!-- End Services Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="services" class="features section-bg">
+    <section id="services" class="services section-even">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <p>Services</p>
@@ -196,7 +191,7 @@
             </li>
           </ul>
 
-          <div class="tab-content va-tab-content" id="myTabContent">
+          <div class="tab-content va-tab-content" id="myTabContent" style="min-height:200px;">
             <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
               <h3 class="h3-header">Medical Virtual Assistants</h3>
               Experienced medical assistants provide crucial support in the healthcare industry.
@@ -424,10 +419,10 @@
 
 
         <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials">
+        <section class="section-even">
           <div class="container" data-aos="zoom-in">
 
-            <div class="testimonial-item">
+            <div class="choose-maxicore">
               <p>
                 Choose Maxicore Philippines for a partnership that transcends traditional outsourcing. Experience the Maxicore advantage - Maximizing Core Potential for unparalleled business success and growth!
               </p>
@@ -493,4 +488,4 @@
 
 
 
-<?php include "footer.php"; ?>
+<?php include "altn-footer.php"; ?>

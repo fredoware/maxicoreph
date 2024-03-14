@@ -4,7 +4,7 @@
   $ogTitle = 'BIR Tax Filing Assistance';
   $ogUrl = 'https://maxicoreph.com/bir-tax-filing.php';
   $ogImage = 'assets/img/tax-filing.jpg';
-  include "header.php";
+  include "altn-header.php";
 ?>
 
 
@@ -61,4 +61,4 @@
 
 
 
-<?php include "footer.php"; ?>
+<?php include "altn-footer.php"; ?>

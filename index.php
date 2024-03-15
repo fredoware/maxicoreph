@@ -181,22 +181,16 @@
       <div class="modal-body">
           <ul class="nav nav-tabs row" id="myTab" role="tablist">
             <li class="nav-item col" role="presentation">
-              <button class="nav-link va-tab active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Medical Virtual Assistants</button>
+              <button style="width:100%" class="nav-link va-tab active" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">General Virtual Assistants</button>
             </li>
             <li class="nav-item col" role="presentation">
-              <button class="nav-link va-tab" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">General Virtual Assistants</button>
-            </li>
-            <li class="nav-item col" role="presentation">
-              <button class="nav-link va-tab" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">AML and Fraud Detection Analysts</button>
+              <button style="width:100%" class="nav-link va-tab" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">AML and Fraud Detection Analysts</button>
             </li>
           </ul>
 
           <div class="tab-content va-tab-content" id="myTabContent" style="min-height:200px;">
-            <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
-              <h3 class="h3-header">Medical Virtual Assistants</h3>
-              Experienced medical assistants provide crucial support in the healthcare industry.
-            </div>
-            <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+
+            <div class="tab-pane fade show active" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
               <h3 class="h3-header">General Virtual Assistants</h3>
               Skilled virtual assistants tackle diverse tasks, allowing you to focus on core competencies.
             </div>
@@ -233,7 +227,7 @@
                     <ul>
                       <li><a href="#" data-bs-toggle="modal" data-bs-target="#generalModal"><i class="bi bi-caret-right-fill"></i> General Virtual Assistant Training and Certification</a></li>
                       <li><a href="#" data-bs-toggle="modal" data-bs-target="#amlModal"><i class="bi bi-caret-right-fill"></i> Anti-money Laundering (AML) and Fraud Detection Analyst Training and Certification</a></li>
-                      <li><a href="#" data-bs-toggle="modal" data-bs-target="#medicalModal"><i class="bi bi-caret-right-fill"></i> Medical Virtual Assistant Training and Certification</a></li>
+
                     </ul>
 
               </div>
@@ -287,30 +281,6 @@
                 </div>
               </div>
             </div>
-
-            <div class="modal fade" id="medicalModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="modal-title fs-5">Medical Virtual Assistant Training and Certification</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      Embark on a transformative journey in healthcare support with our Medical Virtual Assistant Training and Certification program. Tailored for individuals aspiring to excel in the intersection of technology and healthcare, this comprehensive course equips you with the specialized skills needed to thrive as a medical virtual assistant. Delve into a curriculum that covers a range of topics, from medical terminology and HIPAA compliance to appointment scheduling and electronic health records management. Our immersive learning approach integrates practical scenarios and case studies, ensuring you develop the expertise required to navigate the intricacies of the healthcare industry.
-                    </p>
-
-                    <p>
-                      Upon successful completion of the program, you'll earn a prestigious certification, a testament to your proficiency in medical virtual assistance. Beyond certification, our program offers ongoing career support, connecting you with a network of professionals and providing resources to help you launch or advance your career in the healthcare sector. Join us in shaping the future of medical support services and become a certified Medical Virtual Assistant, ready to make a meaningful impact in the healthcare field. Your journey to a rewarding and impactful career starts here!
-                    </p>
-                  </div>
-                  <div class="modal-footer">
-                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-primary">Enroll Now</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
 
 
 

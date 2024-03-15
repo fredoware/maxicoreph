@@ -2,7 +2,7 @@
   $pageType = '';
   $ogTitle = 'Maxicore Philippines';
   $ogUrl = 'https://maxicoreph.com';
-  $ogImage = 'assets/img/open-graph.png';
+  $ogImage = 'assets/img/og.jpg';
   include "altn-header.php";
 ?>
 
@@ -13,7 +13,7 @@
       <h1  data-aos="zoom-in" data-aos-delay="150">Welcome to <br> <span>Maxicore Philippines</span></h1>
       <h2  data-aos="fade-up" data-aos-delay="600">Maximizing Core Potential</h2>
       <div class="d-flex" data-aos="fade-up" data-aos-delay="1000">
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        <a href="#about" class="btn-secondary scrollto">Get Started</a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -95,35 +95,35 @@
             </div>
 
             <div class="row">
-              <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon-box">
-                  <h4><a href="#">Excellence</a></h4>
-                  <p>Striving for excellence is not just a goal; it's a way of life at Maxicore. We are committed to surpassing expectations in everything we do.</p>
+              <div class="col-md-4" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box" style="background: url('assets/img/cv/bg1.jpg')">
+                  <h4 class="dark">Excellence</h4>
+                  <p class="dark">Striving for excellence is not just a goal; it's a way of life at Maxicore. We are committed to surpassing expectations in everything we do.</p>
                 </div>
               </div>
-              <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
-                <div class="icon-box">
-                  <h4><a href="#">Integrity</a></h4>
-                  <p>Operating with unwavering honesty, transparency, and ethical practices, we build trust with our clients and team members alike. </p>
+              <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="400">
+                <div class="icon-box" style="background: url('assets/img/cv/bg2.jpg')">
+                  <h4 class="dark">Integrity</h4>
+                  <p class="dark">Operating with unwavering honesty, transparency, and ethical practices, we build trust with our clients and team members alike. </p>
                 </div>
               </div>
-              <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
-                <div class="icon-box">
-                  <h4><a href="#">Innovation</a></h4>
-                  <p> Embracing creativity and innovation, we seek new and improved ways to meet the ever-evolving needs of businesses. </p>
+              <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="600">
+                <div class="icon-box" style="background: url('assets/img/cv/bg3.jpg')">
+                  <h4 class="white">Innovation</h4>
+                  <p class="white"> Embracing creativity and innovation, we seek new and improved ways to meet the ever-evolving needs of businesses. </p>
                 </div>
               </div>
-              <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="800">
-                <div class="icon-box">
-                  <h4><a href="#">Collaboration</a></h4>
-                  <p>Teamwork is at the heart of our success. We believe in harnessing collective strengths to achieve common goals. </p>
+              <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="800">
+                <div class="icon-box" style="background: url('assets/img/cv/bg4.jpg')">
+                  <h4 class="dark">Collaboration</h4>
+                  <p class="dark">Teamwork is at the heart of our success. We believe in harnessing collective strengths to achieve common goals. </p>
                 </div>
               </div>
 
-              <div class="col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="1000">
-                <div class="icon-box">
-                  <h4><a href="#">Empowerment</a></h4>
-                  <p>Our commitment is to empower businesses and individuals to unlock their full potential, fostering growth and success. </p>
+              <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="1000">
+                <div class="icon-box" style="background: url('assets/img/cv/bg5.jpg')">
+                  <h4 class="dark">Empowerment</h4>
+                  <p class="dark">Our commitment is to empower businesses and individuals to unlock their full potential, fostering growth and success. </p>
                 </div>
               </div>
 
@@ -201,9 +201,9 @@
           </div>
 
           <div class="text-center mb-3">
-          <a href="https://docs.google.com/forms/d/1C359fAt-IRq8Be45ArWidAlqQFDPYrROxTWKkKdEA5o/edit" class="btn btn-primary">Get A Proposal from Maxicore</a>
+          <a href="https://docs.google.com/forms/d/1C359fAt-IRq8Be45ArWidAlqQFDPYrROxTWKkKdEA5o/edit" class="btn btn-secondary">Get A Proposal from Maxicore</a>
           <br>
-          <a href="https://calendly.com/maxicoreph/business-collaboration-meeting" class="btn btn-primary mt-3">Schedule a Call</a>
+          <a href="https://calendly.com/maxicoreph/business-collaboration-meeting" class="btn btn-secondary mt-3">Schedule a Call</a>
           </div>
       </div>
     </div>
@@ -253,7 +253,7 @@
                     </p>
                   </div>
                   <div class="modal-footer">
-                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-primary">Enroll Now</a>
+                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-secondary">Enroll Now</a>
                   </div>
                 </div>
               </div>
@@ -276,7 +276,7 @@
                     </p>
                   </div>
                   <div class="modal-footer">
-                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-primary">Enroll Now</a>
+                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-secondary">Enroll Now</a>
                   </div>
                 </div>
               </div>
@@ -448,14 +448,6 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
-
-
-
-
-
-
-
-
 
 
 <?php include "altn-footer.php"; ?>

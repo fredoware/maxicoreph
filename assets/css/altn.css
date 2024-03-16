@@ -30,7 +30,7 @@
 }
 
 .btn-secondary:hover {
-  background: #247cf0;
+  background: var(--primary);
 }
 
 .btn-secondary{
@@ -152,7 +152,7 @@ a {
 }
 
 a:hover {
-  color: #3b8af2;
+  color: var(--secondary);
   text-decoration: none;
 }
 
@@ -781,10 +781,6 @@ p {
   color: var(--primary);
 }
 
-#hero .btn-watch-video:hover i {
-  color: #3b8af2;
-}
-
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -962,6 +958,7 @@ section {
   color: white;
   text-align: center;
 }
+
 
 
 

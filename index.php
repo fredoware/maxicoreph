@@ -69,13 +69,13 @@
           <div class="row">
             <div class="col-md-12" data-aos="fade-up" data-aos-delay="200">
               <div class="icon-box">
-                <h4><a href="#">Company Mission</a></h4>
+                <h4>Company Mission</h4>
                 <p>Our mission is to be the trusted partner for businesses worldwide, propelling them toward success by delivering innovative and reliable outsourcing solutions. Simultaneously, we strive to uplift the Filipino workforce by providing fulfilling job opportunities and fostering professional growth. </p>
               </div>
             </div>
             <div class="col-md-12 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
               <div class="icon-box">
-                <h4><a href="#">Company Vision</a></h4>
+                <h4>Company Vision</h4>
                 <p>Maxicore Philippines envisions being the vanguard of innovation, setting new standards in efficiency and client satisfaction. Our vision extends beyond borders, aiming to be a recognized global leader in business process outsourcing, all while nurturing a skilled and empowered Filipino workforce. </p>
               </div>
             </div>
@@ -97,24 +97,28 @@
             <div class="row">
               <div class="col-md-4" data-aos="zoom-in" data-aos-delay="200">
                 <div class="icon-box" style="background: url('assets/img/cv/bg1.jpg')">
+                  <br><br>
                   <h4 class="dark">Excellence</h4>
                   <p class="dark">Striving for excellence is not just a goal; it's a way of life at Maxicore. We are committed to surpassing expectations in everything we do.</p>
                 </div>
               </div>
               <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="400">
                 <div class="icon-box" style="background: url('assets/img/cv/bg2.jpg')">
+                  <br><br>
                   <h4 class="dark">Integrity</h4>
                   <p class="dark">Operating with unwavering honesty, transparency, and ethical practices, we build trust with our clients and team members alike. </p>
                 </div>
               </div>
               <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="600">
                 <div class="icon-box" style="background: url('assets/img/cv/bg3.jpg')">
+                  <br><br>
                   <h4 class="white">Innovation</h4>
                   <p class="white"> Embracing creativity and innovation, we seek new and improved ways to meet the ever-evolving needs of businesses. </p>
                 </div>
               </div>
               <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="800">
                 <div class="icon-box" style="background: url('assets/img/cv/bg4.jpg')">
+                  <br><br>
                   <h4 class="dark">Collaboration</h4>
                   <p class="dark">Teamwork is at the heart of our success. We believe in harnessing collective strengths to achieve common goals. </p>
                 </div>
@@ -122,6 +126,7 @@
 
               <div class="col-md-4 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="1000">
                 <div class="icon-box" style="background: url('assets/img/cv/bg5.jpg')">
+                  <br><br>
                   <h4 class="dark">Empowerment</h4>
                   <p class="dark">Our commitment is to empower businesses and individuals to unlock their full potential, fostering growth and success. </p>
                 </div>

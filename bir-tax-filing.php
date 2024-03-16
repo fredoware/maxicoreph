@@ -33,7 +33,7 @@
           <p>BIR Tax Filing Assistance</p>
         </div>
 
-        <a href="https://docs.google.com/forms/d/18OJ8K3H-grgPvgPYyfDHjes3cgBjoOthugSEla8MVuk/edit" class="btn btn-primary mb-3">Submit your COR here</a>
+        <a href="https://docs.google.com/forms/d/18OJ8K3H-grgPvgPYyfDHjes3cgBjoOthugSEla8MVuk/edit" class="btn btn-secondary mb-3">Submit your COR here</a>
 
         <div class="row">
           <div class="col-lg-5">

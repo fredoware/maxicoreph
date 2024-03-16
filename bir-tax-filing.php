@@ -30,7 +30,7 @@
     <section>
       <div class="container" data-aos="fade-up">
         <div class="section-title">
-          <p>BIR Tax Filing Assistance</p>
+          <p class="color-primary">BIR Tax Filing Assistance</p>
         </div>
 
         <a href="https://docs.google.com/forms/d/18OJ8K3H-grgPvgPYyfDHjes3cgBjoOthugSEla8MVuk/edit" class="btn btn-secondary mb-3">Submit your COR here</a>

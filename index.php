@@ -2,7 +2,7 @@
   $pageType = '';
   $ogTitle = 'Maxicore Philippines';
   $ogUrl = 'https://maxicoreph.com';
-  $ogImage = 'assets/img/og.jpg';
+  $ogImage = 'assets/img/og-new.jpg';
   include "altn-header.php";
 ?>
 

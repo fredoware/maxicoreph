@@ -1,0 +1,40 @@
+.select-section{
+  min-height: 400px;
+  padding:100px;
+}
+
+.select-card{
+ height: 200px;
+ padding:30px;
+ font-size: 30px;
+ margin-bottom: 20px;
+ background: #ff7518;
+ color: white;
+ font-weight: bold;
+}
+
+.select-card:hover{
+  cursor: pointer;
+  background: #f98c43;
+}
+
+.select-link{
+ margin: 20px;
+}
+
+.btn-schedule{
+  padding: 10px !important;
+  margin-left: 10px;
+  color: white !important;
+}
+
+.card-process{
+  height:380px !important;
+}
+
+.bg-primary{
+  background: #ff7518 !important;
+}
+.bg-secondary{
+  background: #0a2342 !important;
+}

@@ -41,7 +41,7 @@
         <section id="select-va" class="select-section">
           <div class="container mt-5">
           <div class="row text-center">
-            <div class="col">
+            <div class="col-lg-6">
 
               <img  data-aos="flip-left" src="assets/img/button1.png" width="100%" class="clickable"  onclick="location.href='professional-medical-virtual-assistant.php'">
 
@@ -49,7 +49,7 @@
               <a href="#" class="select-link">Become our Professional Medical Virtual Assistant</a>
 
             </div>
-            <div class="col">
+            <div class="col-lg-6">
               <img  data-aos="flip-right" src="assets/img/button2.png" width="100%" class="clickable"  onclick="location.href='professional-medical-virtual-assistant.php'">
 
                 <a href="#" class="select-link">Become our AML Risk and Compliance Analyst</a>
@@ -273,7 +273,7 @@
       </div>
 
       
-      <div  data-aos="fade-up"  data-aos-delay="300" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/location.png); background-repeat: no-repeat;background-size: 100% 100%;">
+      <div  data-aos="fade-up"  data-aos-delay="300" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/email.png); background-repeat: no-repeat;background-size: 100% 100%;">
       <h3 style="margin-top:100px" >Email Us</h3>
                 <div>
                 maxicorephilippines@maxicoreph.com
@@ -281,10 +281,9 @@
       </div>
 
       
-      <div data-aos="fade-up"  data-aos-delay="600" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/location.png); background-repeat: no-repeat;background-size: 100% 100%;">
-      <h3 style="margin-top:100px" >Maxicore Philippines</h3>
-                <div>
-                  <a href="https://www.facebook.com/maxicorephilippines" target="_blank">Click here</a>
+      <div data-aos="fade-up"  data-aos-delay="600" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/contact.png); background-repeat: no-repeat;background-size: 100% 100%;">
+      <h3 style="margin-top:100px" >Contact Number</h3>
+                <div>+638981019482
                 </div>
     </div>
 

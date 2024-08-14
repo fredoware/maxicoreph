@@ -1,3 +1,19 @@
+.text-primary{
+  color: var(--primary) !important;
+}
+
+.text-secondary{
+  color: var(--secondary) !important;
+}
+
+.text-white{
+  color: white !important;
+}
+
+.clickable{
+  cursor:pointer;
+}
+
 .select-section{
   min-height: 400px;
   padding:100px;

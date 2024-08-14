@@ -22,8 +22,9 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1 style="font-size:40px;"  data-aos="zoom-in" data-aos-delay="150">Welcome to <br> <span>Maxicore Philippines</span></h1>
-      <h2  data-aos="fade-up" data-aos-delay="600">A premier source for top-tier offshore <br> and virtual professionals specializing <br> in Medical and <br> AML Risk and Compliance.</h2>
+      <h1 style="font-size:40px; color:white" data-aos="zoom-in" data-aos-delay="150">Welcome to <br> <span class="text-secondary">Maxicore</span> Philippines</h1>
+      
+      <h2 class="text-white" data-aos="fade-right" data-aos-delay="600" style="margin-left:200px;">A premier source for top-tier offshore <br> and virtual professionals specializing <br> in Medical and <br> AML Risk and Compliance.</h2>
 
       <div class="d-flex" data-aos="fade-up" data-aos-delay="1000">
         <a href="#select-va" class="btn-secondary scrollto">Get Started</a>
@@ -41,22 +42,15 @@
           <div class="container mt-5">
           <div class="row text-center">
             <div class="col">
-              <div class="card select-card"  data-aos="zoom-in" onclick="location.href='professional-medical-virtual-assistant.php'">
-                <div class="card-body">
-                  Hire a Professional Medical Virtual Assistant
-                </div>
-              </div>
 
+              <img  data-aos="flip-left" src="assets/img/button1.png" width="100%" class="clickable"  onclick="location.href='professional-medical-virtual-assistant.php'">
+
+        
               <a href="#" class="select-link">Become our Professional Medical Virtual Assistant</a>
 
             </div>
             <div class="col">
-              <div class="card select-card"  data-aos="zoom-in" onclick="location.href='professional-medical-virtual-assistant.php'">
-              <!-- <div class="card select-card"  data-aos="zoom-in" data-aos-delay="100" onclick="location.href='aml-risk-and-compliance-analyst.php'"> -->
-                <div class="card-body">
-                  Hire an AML Risk and Compliance Analyst
-                </div>
-              </div>
+              <img  data-aos="flip-right" src="assets/img/button2.png" width="100%" class="clickable"  onclick="location.href='professional-medical-virtual-assistant.php'">
 
                 <a href="#" class="select-link">Become our AML Risk and Compliance Analyst</a>
 
@@ -110,9 +104,9 @@
     </section><!-- End About Section -->
 
     <!-- ======= About Boxes Section ======= -->
-    <section id="about-boxes" class="section-even">
+    <section id="about-boxes" style="min-height:500px; background: url(assets/img/mission_vision.jpg); background-repeat: no-repeat;background-size: 100% 100%;">
 
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="fade-up" style="color:white">
 
           <div class="section-title">
             <h3>Mission and Vision</h3>
@@ -191,7 +185,7 @@
 
 
     <!-- ======= Team Section ======= -->
-    <section id="whyChooseUs" class="team section-even">
+    <section id="whyChooseUs" style="color:white; min-height:500px; background: url(assets/img/why_choose.jpg); background-repeat: no-repeat;background-size: 100% 100%;">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -265,49 +259,38 @@
         </section><!-- End Testimonials Section -->
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section-even">
-      <div class="container" data-aos="fade-up">
+      <div class="container" data-aos="fade-up"  data-aos-delay="600">
 
     <div class=" section-title">
         <h3>Contact Us</h3>
       </div>
 
-      <div class="row">
+      <div class="row"> 
+        <div  data-aos="fade-up" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/location.png); background-repeat: no-repeat;background-size: 100% 100%;">
+    
+            <h3 style="margin-top:100px" >Our Address</h3>
+          <div>Villa Angela, Bacolod City, Negros Occidental, Philippines 6100</div>
+      </div>
 
-        <div class="col-lg-12">
-
-          <div class="row">
-            <div class="col-md-4">
-              <div class="info-box">
-                <i class="bx bx-map"></i>
-                <h3>Our Address</h3>
-                <div>Villa Angela, Bacolod City, Negros Occidental, Philippines 6100</div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info-box">
-                <i class="bx bx-envelope"></i>
-                <h3>Email Us</h3>
+      
+      <div  data-aos="fade-up"  data-aos-delay="300" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/location.png); background-repeat: no-repeat;background-size: 100% 100%;">
+      <h3 style="margin-top:100px" >Email Us</h3>
                 <div>
-                  operations@maxicoreph.com
+                maxicorephilippines@maxicoreph.com
                 </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info-box">
-                <i class="bi bi-facebook"></i>
-                <h3>Maxicore Philippines</h3>
+      </div>
+
+      
+      <div data-aos="fade-up"  data-aos-delay="600" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/location.png); background-repeat: no-repeat;background-size: 100% 100%;">
+      <h3 style="margin-top:100px" >Maxicore Philippines</h3>
                 <div>
                   <a href="https://www.facebook.com/maxicorephilippines" target="_blank">Click here</a>
                 </div>
-              </div>
-            </div>
-          </div>
+    </div>
 
+      </div>
         </div>
 
-      </div>
-
-      </div>
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->

@@ -60,31 +60,21 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center">
-    <div class="container-fluid align-items-center justify-content-between">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
 
 
-    <nav class="navbar navbar-expand-lg"  id="navbar">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        
-        <li><a class="nav-link scrollto" href="index.php">Home</a></li>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto" href="index.php">Home</a></li>
           <li><a class="nav-link scrollto" href="#pmva">Professional Medical Virtual Assistants</a></li>
           <li><a class="nav-link scrollto " href="#process">What’s the Process</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Our Competitive Pricing</a></li>
           <li><a class="nav-link scrollto" href="#faq">FAQs</li>
           <li><a class="nav-link scrollto" href="">Become our Virtual Professionals</a></li>
-
-      </ul>
-      <form class="d-flex" role="search">
-      <a class="btn btn-secondary btn-schedule" href="">Schedule a Meeting</a>
-      </form>
-    </div>
-  </div>
-</nav>
+        </ul>
+          <a class="btn btn-secondary btn-schedule" href="">Schedule a Meeting</a>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->

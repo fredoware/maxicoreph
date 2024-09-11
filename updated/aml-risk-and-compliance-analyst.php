@@ -11,7 +11,7 @@
 
 <div class="container" data-aos="fade-up"> 
 
-<img src="assets/img/pmva-hero.jpg" class="pmva-hero">
+<img src="assets/img/aml-hero.jpg" class="pmva-hero">
 </div>
 
 
@@ -33,7 +33,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/1.png">
       <div>
         <h4>Anti-Money Laundering (AML) Program Development</h4>
         <span> Design and implement comprehensive AML programs tailored to your organization's needs, ensuring adherence to regulatory requirements and best practices.</span>
@@ -45,7 +45,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/2.png">
       <div>
         <h4>Transaction Monitoring</h4>
         <span> Analyze financial transactions to detect and investigate suspicious activities, utilizing sophisticated software and techniques to identify potential risks.
@@ -58,7 +58,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/3.png">
       <div>
         <h4>Risk Assessment</h4>
         <span>Conduct thorough risk assessments to identify vulnerabilities and potential threats within your organization’s operations, ensuring that appropriate controls are in place.</span>
@@ -70,7 +70,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/4.png">
       <div>
         <h4>Regulatory Compliance</h4>
         <span>Ensure that your organization remains compliant with local and international AML regulations, including the Bank Secrecy Act (BSA), the USA PATRIOT Act, and the Financial Action Task Force (FATF) guidelines.</span>
@@ -82,7 +82,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/5.png">
       <div>
         <h4>Customer Due Diligence (CDD)</h4>
         <span>Implement and oversee customer due diligence processes to verify the identity of clients, assess their risk profiles, and monitor their transactions for unusual activities.</span>
@@ -94,7 +94,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/6.png">
       <div>
         <h4>Enhanced Due Diligence (EDD)</h4>
         <span>Perform in-depth investigations for high-risk clients and transactions, including politically exposed persons (PEPs) and high-net-worth individuals.
@@ -107,7 +107,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/7.png">
       <div>
         <h4>Suspicious Activity Reporting (SAR)</h4>
         <span>Prepare and file Suspicious Activity Reports with regulatory authorities when suspicious or unusual activities are detected, ensuring timely and accurate reporting.
@@ -120,7 +120,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/8.png">
       <div>
         <h4>Policy and Procedure Development</h4>
         <span> Create and update AML policies and procedures to align with regulatory changes and industry standards, ensuring your organization’s practices are current and effective.
@@ -133,7 +133,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/9.png">
       <div>
         <h4>Investigation and Analysis</h4>
         <span>Perform detailed investigations into suspected money laundering activities, including reviewing transaction histories, and analyzing financial documents.
@@ -146,7 +146,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/10.png">
       <div>
         <h4>Regulatory Reporting</h4>
         <span>Manage and oversee the preparation and submission of all required regulatory reports, including Currency Transaction Reports (CTRs) and reports related to suspicious activities.
@@ -159,7 +159,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/11.png">
       <div>
         <h4>Data Management and Reporting</h4>
         <span>Utilize data analytics tools to monitor, analyze, and report on AML metrics, trends, and performance indicators.</span>
@@ -171,7 +171,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/12.png">
       <div>
         <h4>Fraud Prevention</h4>
         <span>Develop strategies to prevent fraud and other financial crimes by analyzing patterns and implementing preventive measures within the organization.</span>
@@ -183,7 +183,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/13.png">
       <div>
         <h4>Risk Mitigation Strategies</h4>
         <span>Identify and recommend strategies to mitigate identified AML risks, enhancing the overall security and integrity of the organization’s financial operations.
@@ -196,7 +196,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/14.png">
       <div>
         <h4>Internal Controls Enhancement</h4>
         <span>Strengthen internal controls related to AML processes to ensure they are robust and capable of preventing, detecting, and responding to potential risks.
@@ -209,7 +209,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/15.png">
       <div>
         <h4>Documentation and Record-Keeping</h4>
         <span>Maintain thorough and accurate records of AML-related activities, including transaction monitoring, investigations, and compliance measures, to support audits and regulatory reviews.
@@ -222,7 +222,7 @@
 <div class="col-lg-6 mt-5">
   <div class="member" data-aos="fade-up" data-aos-delay="100">
     <div class="member-info d-flex">
-      <img src="assets/img/icons/1.png">
+      <img src="assets/img/aml-icons/16.png">
       <div>
         <h4>Training and Development</h4>
         <span>Provide ongoing training to the Client’s internal team regarding  AML best practices and compliance updates.
@@ -295,8 +295,7 @@
 
       <div class="col-lg-6 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
         <div class="box flat-rate">
-          <h3>Our Flat Rate:</h3>
-          <h4><sup>$</sup>???</h4>
+          <h3>Our Rates Included:</h3>
           <ul>
 
             <li>Assigned Account Manager</li>

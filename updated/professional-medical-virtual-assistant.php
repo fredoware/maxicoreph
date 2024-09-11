@@ -33,7 +33,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-            <img src="assets/img/icons/1.png">
+            <img src="assets/img/pva-icons/1.png">
             <div>
               <h4>1.	Appointment Management</h4>
               <span>Efficiently schedule, reschedule, and confirm patient appointments, reducing no-shows and optimizing the practice’s schedule</span>
@@ -45,7 +45,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/2.png">
+        <img src="assets/img/pva-icons/2.png">
             <div>
               <h4>2.	Patient Communication</h4>
               <span>Handle patient inquiries and communications via phone, email, or chat, ensuring prompt and accurate responses to improve patient satisfaction.</span>
@@ -57,7 +57,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/3.png">
+        <img src="assets/img/pva-icons/3.png">
             <div>
               <h4>3.	Medical Records Handling</h4>
               <span>Organize, update, and maintain electronic health records (EHR), ensuring accuracy, confidentiality, and regulatory compliance</span>
@@ -69,7 +69,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/4.png">
+        <img src="assets/img/pva-icons/4.png">
             <div>
               <h4>4.	Billing and Coding</h4>
               <span>Manage medical billing and coding processes, ensuring accurate claim submissions, timely follow-ups with insurance companies, and maximizing reimbursements.</span>
@@ -81,7 +81,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/5.png">
+        <img src="assets/img/pva-icons/5.png">
             <div>
               <h4>5.	Insurance Verifications</h4>
               <span>Conduct thorough insurance verifications to confirm patient coverage and eligibility before appointments, minimizing claim denials and streamlining billing processes.</span>
@@ -93,7 +93,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/6.png">
+        <img src="assets/img/pva-icons/6.png">
             <div>
               <h4>6.	Referral Management</h4>
               <span>Coordinate patient referrals between primary care and specialists, ensuring smooth transitions and timely care.</span>
@@ -105,7 +105,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/7.png">
+        <img src="assets/img/pva-icons/7.png">
             <div>
               <h4>7.	Medical Transcription</h4>
               <span>Transcribe dictated notes and other medical documentation accurately, ensuring clear and precise updates to patient records</span>
@@ -117,7 +117,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/8.png">
+        <img src="assets/img/pva-icons/8.png">
             <div>
               <h4>8.	Inventory Management</h4>
               <span>Monitor and manage medical supplies and inventory levels, ensuring essential items are well-stocked and reducing administrative burdens related to procurement.</span>
@@ -129,7 +129,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/9.png">
+        <img src="assets/img/pva-icons/9.png">
             <div>
               <h4>9.	Telehealth Support</h4>
               <span>Facilitate telehealth appointments by managing scheduling, providing technical support, and handling follow-up communications to streamline virtual consultations.</span>
@@ -141,7 +141,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/10.png">
+        <img src="assets/img/pva-icons/10.png">
             <div>
               <h4>10.	Patient Follow-Ups</h4>
               <span>Conduct follow-up calls and reminders for patient care plans, medication adherence, and upcoming appointments to enhance patient engagement and care continuity.</span>
@@ -153,7 +153,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/11.png">
+        <img src="assets/img/pva-icons/11.png">
             <div>
               <h4>11.	Pre-Authorization and Pre-Certification</h4>
               <span>Obtain necessary pre-authorizations and pre-certifications from insurance companies, ensuring treatments and procedures are covered and approved in advance.</span>
@@ -165,7 +165,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/12.png">
+        <img src="assets/img/pva-icons/12.png">
             <div>
               <h4>12.	Patient Intake and Registration</h4>
               <span>Manage patient intake processes, including collecting and verifying patient information, insurance details, and consent forms to streamline the registration process.</span>
@@ -177,7 +177,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/13.png">
+        <img src="assets/img/pva-icons/13.png">
             <div>
               <h4>13.	Data Entry and Management</h4>
               <span>Perform accurate data entry for administrative tasks, including updating patient records, managing billing information, and tracking patient outcomes.</span>
@@ -189,7 +189,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-info d-flex">
-        <img src="assets/img/icons/14.png">
+        <img src="assets/img/pva-icons/14.png">
             <div>
               <h4>14.	Practice Management Software Support</h4>
               <span>Provide support for practice management software, including data entry, troubleshooting, and optimizing system usage to improve practice efficiency.</span>
@@ -201,7 +201,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-        <img src="assets/img/icons/15.png">
+        <img src="assets/img/pva-icons/15.png">
             <div>
               <h4>15.	Marketing and Patient Outreach</h4>
               <span>Assist with marketing efforts, including managing social media accounts, creating patient newsletters, and organizing patient outreach campaigns to attract and retain patients.</span>
@@ -213,7 +213,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-        <img src="assets/img/icons/16.png">
+        <img src="assets/img/pva-icons/16.png">
             <div>
               <h4>16.	Patient Surveys and Feedback</h4>
               <span>Conduct patient satisfaction surveys and manage feedback collection to help improve service quality and patient experience</span>
@@ -225,7 +225,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-        <img src="assets/img/icons/17.png">
+        <img src="assets/img/pva-icons/17.png">
             <div>
               <h4>17.	Compliance Monitoring</h4>
               <span>Assist in ensuring compliance with healthcare regulations and standards, including HIPAA, by managing documentation and processes.</span>
@@ -237,7 +237,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-        <img src="assets/img/icons/18.png">
+        <img src="assets/img/pva-icons/18.png">
             <div>
               <h4>18.	Claims Management</h4>
               <span>Oversee claims processing, including tracking, follow-up, and resolving issues with denied or rejected claims to ensure timely reimbursement</span>
@@ -249,7 +249,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-        <img src="assets/img/icons/19.png">
+        <img src="assets/img/pva-icons/19.png">
             <div>
               <h4>19.	Staff Scheduling</h4>
               <span>Assist with scheduling staff shifts, managing time-off requests, and ensuring optimal coverage for the practice.</span>
@@ -261,7 +261,7 @@
       <div class="col-lg-6 mt-5">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-info d-flex">
-        <img src="assets/img/icons/20.png">
+        <img src="assets/img/pva-icons/20.png">
             <div>
               <h4>20.	Administrative Support</h4>
               <span>Handle a variety of clerical tasks such as managing correspondence, filing documents, and organizing office operations to support overall practice efficiency.</span>

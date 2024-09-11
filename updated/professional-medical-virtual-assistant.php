@@ -347,9 +347,10 @@
             <li>Time Tracking and Monitoring Access</li>
             <li>Consistent Daily Contact with the Same Staff</li>
           </ul>
-          <div class="btn-wrap">
-            <a href="#" class="btn-buy">Get Started Now</a>
-          </div>
+          
+          <a href="#" class="rate-btn">Get Started Now</a>
+          <div class="rate-footer"> </div>
+          <div class="rate-footer"> </div>
         </div>
       </div>
 

@@ -3,7 +3,10 @@
   $ogTitle = 'Maxicore Philippines';
   $ogUrl = 'https://maxicoreph.com';
   $ogImage = 'assets/img/og-new.jpg';
-  include "header-pmva.php";
+
+  $va = "Professional Medical Virtual Assistants";
+
+  include "header-va.php";
 ?>
 
 <div class="container" data-aos="fade-up"> 

@@ -72,7 +72,7 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         
         <li><a class="nav-link scrollto" href="index.php">Home</a></li>
-          <li><a class="nav-link scrollto" href="#pmva">Professional Medical Virtual Assistants</a></li>
+          <li><a class="nav-link scrollto" href="#pmva"><?=$va;?></a></li>
           <li><a class="nav-link scrollto " href="#process">What’s the Process</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Our Competitive Pricing</a></li>
           <li><a class="nav-link scrollto" href="#faq">FAQs</li>

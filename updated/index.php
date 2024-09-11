@@ -50,7 +50,7 @@
 
             </div>
             <div class="col-lg-6">
-              <img  data-aos="flip-right" src="assets/img/button2.png" width="100%" class="clickable"  onclick="location.href='professional-medical-virtual-assistant.php'">
+              <img  data-aos="flip-right" src="assets/img/button2.png" width="100%" class="clickable"  onclick="location.href='aml-risk-and-compliance-analyst.php'">
 
                 <a href="#" class="select-link">Become our AML Risk and Compliance Analyst</a>
 

@@ -2,7 +2,7 @@
   $pageType = '';
   $ogTitle = 'Maxicore Philippines';
   $ogUrl = 'https://maxicoreph.com';
-  $ogImage = 'assets/img/og-new.jpg';
+  $ogImage = 'assets/img/og.jpg';
 
   $va = "AML Risk and Compliance Analysts";
 

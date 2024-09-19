@@ -255,22 +255,22 @@
     <div class="row mt-5">
       <div class="col-md-3" data-aos="fade-left" data-aos-delay="200">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/1.png')">
-          <p class="dark">Complete the Client Needs Assessment Form: Start by filling out the form, which includes an option to schedule a quick call. Access the form [HERE].</p>
+          <p class="dark">Complete the Client Needs Assessment Form <br><br> Start by filling out the form, which includes an option to schedule a quick call. Access the form [HERE].</p>
         </div>
       </div>
       <div class="col-md-3 mt-4 mt-md-0" data-aos="fade-left" data-aos-delay="400">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/2.png')">
-          <p class="dark">Receive Contact from Our Placement Consultant: Once you submit the form, our placement consultant will get in touch via email within 1-2 business days, or according to the schedule you provided.</p>
+          <p class="dark">Receive Contact from Our Placement Consultant<br><br> Once you submit the form, our placement consultant will get in touch via email within 1-2 business days, or according to the schedule you provided.</p>
         </div>
       </div>
       <div class="col-md-3 mt-4 mt-md-0" data-aos="fade-left" data-aos-delay="600">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/3.png')">
-          <p class="dark">Choose and Hire Your Analyst: After an initial discussion with a Placement Consultant, if you’re ready to proceed, we’ll send you profiles of the top 3 Analysts who match your requirements. You can either make a decision based on the resumes and self-introduction videos or schedule interviews with the candidates.</p>
+          <p class="dark">Choose and Hire Your Analyst<br><br> After an initial discussion with a Placement Consultant, if you’re ready to proceed, we’ll send you profiles of the top Analysts who match your requirements. You can either make a decision based on the resumes and self-introduction videos or schedule interviews with the candidates.</p>
         </div>
       </div>
       <div class="col-md-3 mt-4 mt-md-0" data-aos="fade-left" data-aos-delay="800">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/4.png')">
-          <p class="dark">Start the Onboarding Process: Once you’ve made your choice, onboarding will begin. Our placement consultant will facilitate the introduction via email, so you can start working with your new AML Risk and Compliance Analyst right away.</p>
+          <p class="dark">Start the Onboarding Process<br><br> Once you’ve made your choice, onboarding will begin. Our placement consultant will facilitate the introduction via email, so you can start working with your new AML Risk and Compliance Analyst right away.</p>
         </div>
       </div>
 

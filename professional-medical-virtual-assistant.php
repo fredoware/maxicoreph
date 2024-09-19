@@ -14,8 +14,6 @@
 <img src="assets/img/pmva-hero.jpg" class="pmva-hero">
 </div>
 
-
-
 <!-- ======= Team Section ======= -->
 <section id="pmva" class="team section-even">
   <div class="container" data-aos="fade-up">
@@ -35,7 +33,7 @@
           <div class="member-info d-flex">
             <img src="assets/img/pva-icons/1.png">
             <div>
-              <h4>1.	Appointment Management</h4>
+              <h4>Appointment Management</h4>
               <span>Efficiently schedule, reschedule, and confirm patient appointments, reducing no-shows and optimizing the practice’s schedule</span>
             </div>
           </div>
@@ -47,7 +45,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/2.png">
             <div>
-              <h4>2.	Patient Communication</h4>
+              <h4>Patient Communication</h4>
               <span>Handle patient inquiries and communications via phone, email, or chat, ensuring prompt and accurate responses to improve patient satisfaction.</span>
             </div>
           </div>
@@ -59,7 +57,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/3.png">
             <div>
-              <h4>3.	Medical Records Handling</h4>
+              <h4>Medical Records Handling</h4>
               <span>Organize, update, and maintain electronic health records (EHR), ensuring accuracy, confidentiality, and regulatory compliance</span>
             </div>
           </div>
@@ -71,7 +69,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/4.png">
             <div>
-              <h4>4.	Billing and Coding</h4>
+              <h4>Billing and Coding</h4>
               <span>Manage medical billing and coding processes, ensuring accurate claim submissions, timely follow-ups with insurance companies, and maximizing reimbursements.</span>
             </div>
           </div>
@@ -83,7 +81,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/5.png">
             <div>
-              <h4>5.	Insurance Verifications</h4>
+              <h4>Insurance Verifications</h4>
               <span>Conduct thorough insurance verifications to confirm patient coverage and eligibility before appointments, minimizing claim denials and streamlining billing processes.</span>
             </div>
           </div>
@@ -95,7 +93,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/6.png">
             <div>
-              <h4>6.	Referral Management</h4>
+              <h4>Referral Management</h4>
               <span>Coordinate patient referrals between primary care and specialists, ensuring smooth transitions and timely care.</span>
             </div>
           </div>
@@ -107,7 +105,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/7.png">
             <div>
-              <h4>7.	Medical Transcription</h4>
+              <h4>Medical Transcription</h4>
               <span>Transcribe dictated notes and other medical documentation accurately, ensuring clear and precise updates to patient records</span>
             </div>
           </div>
@@ -119,7 +117,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/8.png">
             <div>
-              <h4>8.	Inventory Management</h4>
+              <h4>Inventory Management</h4>
               <span>Monitor and manage medical supplies and inventory levels, ensuring essential items are well-stocked and reducing administrative burdens related to procurement.</span>
             </div>
           </div>
@@ -131,7 +129,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/9.png">
             <div>
-              <h4>9.	Telehealth Support</h4>
+              <h4>Telehealth Support</h4>
               <span>Facilitate telehealth appointments by managing scheduling, providing technical support, and handling follow-up communications to streamline virtual consultations.</span>
             </div>
           </div>
@@ -143,7 +141,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/10.png">
             <div>
-              <h4>10.	Patient Follow-Ups</h4>
+              <h4>Patient Follow-Ups</h4>
               <span>Conduct follow-up calls and reminders for patient care plans, medication adherence, and upcoming appointments to enhance patient engagement and care continuity.</span>
             </div>
           </div>
@@ -155,7 +153,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/11.png">
             <div>
-              <h4>11.	Pre-Authorization and Pre-Certification</h4>
+              <h4>Pre-Authorization and Pre-Certification</h4>
               <span>Obtain necessary pre-authorizations and pre-certifications from insurance companies, ensuring treatments and procedures are covered and approved in advance.</span>
             </div>
           </div>
@@ -167,7 +165,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/12.png">
             <div>
-              <h4>12.	Patient Intake and Registration</h4>
+              <h4>Patient Intake and Registration</h4>
               <span>Manage patient intake processes, including collecting and verifying patient information, insurance details, and consent forms to streamline the registration process.</span>
             </div>
           </div>
@@ -179,7 +177,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/13.png">
             <div>
-              <h4>13.	Data Entry and Management</h4>
+              <h4>Data Entry and Management</h4>
               <span>Perform accurate data entry for administrative tasks, including updating patient records, managing billing information, and tracking patient outcomes.</span>
             </div>
           </div>
@@ -191,7 +189,7 @@
         <div class="member-info d-flex">
         <img src="assets/img/pva-icons/14.png">
             <div>
-              <h4>14.	Practice Management Software Support</h4>
+              <h4>Practice Management Software Support</h4>
               <span>Provide support for practice management software, including data entry, troubleshooting, and optimizing system usage to improve practice efficiency.</span>
             </div>
           </div>
@@ -203,7 +201,7 @@
           <div class="member-info d-flex">
         <img src="assets/img/pva-icons/15.png">
             <div>
-              <h4>15.	Marketing and Patient Outreach</h4>
+              <h4>Marketing and Patient Outreach</h4>
               <span>Assist with marketing efforts, including managing social media accounts, creating patient newsletters, and organizing patient outreach campaigns to attract and retain patients.</span>
             </div>
           </div>
@@ -215,7 +213,7 @@
           <div class="member-info d-flex">
         <img src="assets/img/pva-icons/16.png">
             <div>
-              <h4>16.	Patient Surveys and Feedback</h4>
+              <h4>Patient Surveys and Feedback</h4>
               <span>Conduct patient satisfaction surveys and manage feedback collection to help improve service quality and patient experience</span>
             </div>
           </div>
@@ -227,7 +225,7 @@
           <div class="member-info d-flex">
         <img src="assets/img/pva-icons/17.png">
             <div>
-              <h4>17.	Compliance Monitoring</h4>
+              <h4>Compliance Monitoring</h4>
               <span>Assist in ensuring compliance with healthcare regulations and standards, including HIPAA, by managing documentation and processes.</span>
             </div>
           </div>
@@ -239,7 +237,7 @@
           <div class="member-info d-flex">
         <img src="assets/img/pva-icons/18.png">
             <div>
-              <h4>18.	Claims Management</h4>
+              <h4>Claims Management</h4>
               <span>Oversee claims processing, including tracking, follow-up, and resolving issues with denied or rejected claims to ensure timely reimbursement</span>
             </div>
           </div>
@@ -251,7 +249,7 @@
           <div class="member-info d-flex">
         <img src="assets/img/pva-icons/19.png">
             <div>
-              <h4>19.	Staff Scheduling</h4>
+              <h4>Staff Scheduling</h4>
               <span>Assist with scheduling staff shifts, managing time-off requests, and ensuring optimal coverage for the practice.</span>
             </div>
           </div>
@@ -263,7 +261,7 @@
           <div class="member-info d-flex">
         <img src="assets/img/pva-icons/20.png">
             <div>
-              <h4>20.	Administrative Support</h4>
+              <h4>Administrative Support</h4>
               <span>Handle a variety of clerical tasks such as managing correspondence, filing documents, and organizing office operations to support overall practice efficiency.</span>
             </div>
           </div>
@@ -293,22 +291,22 @@
     <div class="row mt-5">
       <div class="col-md-3" data-aos="fade-left" data-aos-delay="200">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/1.png')">
-          <p class="dark">Complete the Client Needs Assessment Form: Start by filling out the form, which includes an option to schedule a quick call. Access the form [HERE].</p>
+          <p class="dark">Complete the Client Needs Assessment Form <br><br>Start by filling out the form, which includes an option to schedule a quick call. Access the form [HERE].</p>
         </div>
       </div>
       <div class="col-md-3 mt-4 mt-md-0" data-aos="fade-left" data-aos-delay="400">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/2.png')">
-          <p class="dark">Receive Contact from Our Placement Consultant: Once you submit the form, our placement consultant will get in touch via email within 1-2 business days, or according to the schedule you provided.</p>
+          <p class="dark">Receive Contact from Our Placement Consultant<br><br> Once you submit the form, our placement consultant will get in touch via email within 1-2 business days, or according to the schedule you provided.</p>
         </div>
       </div>
       <div class="col-md-3 mt-4 mt-md-0" data-aos="fade-left" data-aos-delay="600">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/3.png')">
-          <p class="dark">Choose and Hire Your Assistant: After our initial discussion, if you’re ready to proceed, we’ll send you profiles of the top 3 Professional Medical Virtual Assistants who match your requirements. You can either make a decision based on the resumes and self-introduction videos or schedule interviews with the candidates.</p>
+          <p class="dark">Choose and Hire Your Assistant<br><br> After our initial discussion, if you’re ready to proceed, we’ll send you profiles of the top Professional Medical Virtual Assistants who match your requirements. You can either make a decision based on the resumes and self-introduction videos or schedule interviews with the candidates.</p>
         </div>
       </div>
       <div class="col-md-3 mt-4 mt-md-0" data-aos="fade-left" data-aos-delay="800">
         <div class="icon-box card-process" style="background:url('assets/img/txtbox/4.png')">
-          <p class="dark">Start the Onboarding Process: Once you’ve made your choice, onboarding will begin. Our placement consultant will facilitate the introduction via email, so you can start working with your new Professional Medical Virtual Assistant right away.</p>
+          <p class="dark">Start the Onboarding Process<br><br> Once you’ve made your choice, onboarding will begin. Our placement consultant will facilitate the introduction via email, so you can start working with your new Professional Medical Virtual Assistant right away.</p>
         </div>
       </div>
 
@@ -326,7 +324,7 @@
       <h3>Our Competitive Pricing</h3>
     </div>
 
-    <p>Our pricing is designed to be clear and hassle-free, with a flat rate of $7.50 per hour. Benefit from our no-contract, no-setup-fee policy, allowing you to cancel at any time without concerns. Experience straightforward, flexible service with no hidden costs.</p>
+    <p>Our pricing is designed to be clear and hassle-free, with a flat rate of $8.50 per hour. Benefit from our no-contract, no-setup-fee policy, allowing you to cancel at any time without concerns. Experience straightforward, flexible service with no hidden costs.</p>
 
 
     <div class="row justify-content-md-center">
@@ -334,7 +332,7 @@
       <div class="col-lg-6 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
         <div class="box flat-rate">
           <h3>Our Flat Rate:</h3>
-          <h4><sup>$</sup>7.50</h4>
+          <h4><sup>$</sup>8.50</h4>
           <ul>
 
             <li>Hourly Billing</li>

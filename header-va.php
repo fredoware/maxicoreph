@@ -62,23 +62,26 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container-fluid align-items-center justify-content-between">
 
+    
 
     <nav class="navbar navbar-expand-lg"  id="navbar">
   <div class="container-fluid">
+    
+  <a href="index.php"><img src="assets/img/logo/logo.png" style="height:50px;margin-right:100px"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        
+ 
+      <nav id="navbar" class="navbar">
+        <ul>
         <li><a class="nav-link scrollto" href="index.php">Home</a></li>
           <li><a class="nav-link scrollto" href="#pmva"><?=$va;?></a></li>
           <li><a class="nav-link scrollto " href="#process">What’s the Process</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Our Competitive Pricing</a></li>
           <li><a class="nav-link scrollto" href="#faq">FAQs</li>
-          <li><a class="nav-link scrollto" href="">Become our Virtual Professionals</a></li>
-
-      </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
       <form class="d-flex" role="search">
       <a class="btn btn-secondary btn-schedule" href="">Schedule a Meeting</a>
       </form>

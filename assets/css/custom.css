@@ -36,6 +36,8 @@
 
 .select-link{
  margin: 20px;
+ font-size: 28px;
+ margin-top: 10px;
 }
 
 .btn-schedule{
@@ -47,6 +49,7 @@
 .card-process{
   height:380px !important;
   padding: 20px 50px !important;
+  font-size: 14px;
 }
 
 .card-process .dark{

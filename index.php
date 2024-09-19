@@ -2,33 +2,81 @@
   $pageType = '';
   $ogTitle = 'Maxicore Philippines';
   $ogUrl = 'https://maxicoreph.com';
-  $ogImage = 'assets/img/og-new.jpg';
-  include "altn-header.php";
+  $ogImage = 'assets/img/og.jpg';
+  include "header.php";
 ?>
+
+<style media="screen">
+  .btn-hire{
+    height: 60px;
+    padding: 15px;
+  }
+  .link-become{
+    font-size: 13px;
+    text-decoration: underline;
+  }
+</style>
+
 
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
-      <h1  data-aos="zoom-in" data-aos-delay="150">Welcome to <br> <span>Maxicore Philippines</span></h1>
-      <h2  data-aos="fade-up" data-aos-delay="600">Maximizing Core Potential</h2>
+      <h1 style="font-size:40px; color:white" data-aos="zoom-in" data-aos-delay="150">Welcome to <br> <span class="text-secondary">Maxicore</span> Philippines!</h1>
+      
+      <i>
+        <span style="font-size:20px" class="text-white" data-aos="fade-right" data-aos-delay="600">A premier source for top-tier offshore and virtual professionals <br> specializing in Medical and AML Risk and Compliance.</span>
+      </i>
+
       <div class="d-flex" data-aos="fade-up" data-aos-delay="1000">
-        <a href="#about" class="btn-secondary scrollto">Get Started</a>
+        <a href="#select-va" class="btn-secondary scrollto mt-3">Get Started</a>
       </div>
     </div>
   </section><!-- End Hero -->
 
 
+
   <main id="main">
+
+
+        <!-- ======= About Section ======= -->
+        <section id="select-va" class="select-section">
+          <div class="container mt-5">
+          <div class="row text-center">
+            <div class="col-lg-6">
+
+              <img  data-aos="flip-left" src="assets/img/button1.png" width="100%" class="clickable"  onclick="location.href='professional-medical-virtual-assistant.php'">
+
+              <br> <br>
+              <a href="#" class="select-link">Become our Professional Medical Virtual Assistant</a>
+
+            </div>
+            <div class="col-lg-6">
+              <img  data-aos="flip-right" src="assets/img/button2.png" width="100%" class="clickable"  onclick="location.href='aml-risk-and-compliance-analyst.php'">
+              <br> <br>
+                <a href="#" class="select-link">Become our AML Risk and Compliance Analyst</a>
+
+            </div>
+          </div>
+
+
+          </div>
+
+
+        </section><!-- End About Section -->
 
     <!-- ======= About Section ======= -->
     <section id="about">
 
 
       <div class="container" data-aos="fade-up">
-        <div class="section-title">
-          <p>About Us</p>
-        </div>
+
+
+
+            <div class="section-title">
+              <h3>About Us</h3>
+            </div>
+
 
         <div class="row">
 
@@ -58,12 +106,12 @@
     </section><!-- End About Section -->
 
     <!-- ======= About Boxes Section ======= -->
-    <section id="about-boxes" class="section-even">
+    <section id="about-boxes" style="min-height:500px; background: url(assets/img/mission_vision.jpg); background-repeat: no-repeat;background-size: 100% 100%;">
 
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="fade-up" style="color:white">
 
           <div class="section-title">
-            <p>Mission and Vision</p>
+            <h3>Mission and Vision</h3>
           </div>
 
           <div class="row">
@@ -91,7 +139,7 @@
           <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-              <p>Core Values</p>
+              <h3>Core Values</h3>
             </div>
 
             <div class="row">
@@ -137,207 +185,13 @@
           </div>
         </section><!-- End Services Section -->
 
-    <!-- ======= Features Section ======= -->
-    <section id="services" class="services section-even">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title">
-          <p>Services</p>
-        </div>
-        <ul class="nav nav-tabs row d-flex">
-          <li class="nav-item col-lg">
-            <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
-              <h4>Virtual Staffing</h4>
-            </a>
-          </li>
-          <li class="nav-item col-lg">
-            <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-              <h4>Skills Enhancement</h4>
-            </a>
-          </li>
-          <li class="nav-item col-lg">
-            <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-              <h4>Auxiliary Services</h4>
-            </a>
-          </li>
-
-        <div class="tab-content">
-          <div class="tab-pane active show" id="tab-1">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-
-                  <h3>Virtual Staffing</h3>
-                <p>
-                  Elevate your workforce with our virtual staffing service. Connect with top professionals globally, build a tailored remote team, and enjoy seamless collaboration through our advanced platform. Gain flexibility, adaptability, and unmatched efficiency for your business. Experience the future of remote work with us.
-                </p>
-
-                <ul>
-                  <li data-bs-toggle="modal" data-bs-target="#exampleModal"> <a href="#"><i class="bi bi-caret-right-fill"></i> Hire a Virtual Assistant Now</a></li>
-                  <li> <a href="https://docs.google.com/forms/d/1D_K_TsYnUvaHBAzT9sSnuL_qvAI84osJmKlqy_GOodg/edit"><i class="bi bi-caret-right-fill"></i> Become Maxicore’s Independent Contractor</a></li>
-                </ul>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h1 class="modal-title fs-5">Hire a Virtual Assistant Now</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-          <ul class="nav nav-tabs row" id="myTab" role="tablist">
-            <li class="nav-item col" role="presentation">
-              <button style="width:100%" class="nav-link va-tab active" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">General Virtual Assistants</button>
-            </li>
-            <li class="nav-item col" role="presentation">
-              <button style="width:100%" class="nav-link va-tab" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">AML and Fraud Detection Analysts</button>
-            </li>
-          </ul>
-
-          <div class="tab-content va-tab-content" id="myTabContent" style="min-height:200px;">
-
-            <div class="tab-pane fade show active" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
-              <h3 class="h3-header">General Virtual Assistants</h3>
-              Skilled virtual assistants tackle diverse tasks, allowing you to focus on core competencies.
-            </div>
-            <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab" tabindex="0">
-              <h3 class="h3-header">AML and Fraud Detection Analysts</h3>
-              Our team of seasoned analysts ensures your business stays compliant and secure.
-            </div>
-          </div>
-
-          <div class="text-center mb-3">
-          <a href="https://docs.google.com/forms/d/1C359fAt-IRq8Be45ArWidAlqQFDPYrROxTWKkKdEA5o/edit" class="btn btn-secondary">Get A Proposal from Maxicore</a>
-          <br>
-          <a href="https://calendly.com/maxicoreph/business-collaboration-meeting" class="btn btn-secondary mt-3">Schedule a Call</a>
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-                </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/va.jpg" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div>
-          <div class="tab-pane" id="tab-2">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Skills Enhancement</h3>
-                </p>
-                    <p>Maxicore provides targeted training and skills development programs for aspiring virtual assistants, ensuring they are equipped to excel in their roles.</p>
-
-                    <ul>
-                      <li><a href="#" data-bs-toggle="modal" data-bs-target="#generalModal"><i class="bi bi-caret-right-fill"></i> General Virtual Assistant Training and Certification</a></li>
-                      <li><a href="#" data-bs-toggle="modal" data-bs-target="#amlModal"><i class="bi bi-caret-right-fill"></i> Anti-money Laundering (AML) and Fraud Detection Analyst Training and Certification</a></li>
-
-                    </ul>
-
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/skills.jpg" alt="" class="img-fluid">
-              </div>
-            </div>
-
-            <div class="modal fade" id="generalModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="modal-title fs-5">General Virtual Assistant Training and Certification</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      Embark on a transformative learning experience with our General Virtual Assistant Training and Certification program. This comprehensive course is meticulously designed to empower individuals seeking to thrive in the dynamic realm of virtual assistance. Dive into a curriculum that covers a broad spectrum of skills, ranging from effective communication and time management to mastering the latest virtual tools and platforms. Our interactive learning approach incorporates hands-on activities, real-world simulations, and collaborative projects, ensuring you gain practical insights into the responsibilities of a virtual assistant.
-                    </p>
-
-                    <p>
-                      Upon successful completion of the program, you'll be awarded a prestigious certification, a testament to your acquired expertise and a valuable asset as you navigate the competitive landscape of virtual assistance. Beyond certification, we offer ongoing career support, connecting you with a network of professionals and providing resources to help you kickstart your career or enhance your existing virtual assistance business. Don't just settle for a job; empower your future by becoming a highly skilled and certified General Virtual Assistant. Your journey to success begins here!
-                    </p>
-                  </div>
-                  <div class="modal-footer">
-                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-secondary">Enroll Now</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="modal fade" id="amlModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="modal-title fs-5">Anti-money Laundering (AML) and Fraud Detection Analyst Training and Certification</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <p>
-                      Embark on a critical and impactful career path with our Anti-Money Laundering (AML) and Fraud Detection Analyst Training and Certification program. This comprehensive course is meticulously designed to equip individuals with the specialized skills required to combat financial crimes and protect businesses from illicit activities. Delve into a curriculum that covers the intricacies of anti-money laundering regulations, fraud detection techniques, and risk assessment methodologies. Our immersive training approach combines theoretical knowledge with practical case studies, ensuring you develop a deep understanding of the evolving landscape of financial crimes.
-                    </p>
-
-                    <p>
-                      Upon successful completion of the program, you'll earn a prestigious certification, validating your expertise as an AML and Fraud Detection Analyst. Beyond certification, our program offers ongoing support, connecting you with a network of professionals and providing resources to stay updated on the latest trends and technologies in the field. Join us in the crucial fight against financial crimes, and become a certified AML and Fraud Detection Analyst ready to safeguard businesses and financial institutions from unlawful activities. Your journey to a fulfilling and impactful career in financial security begins here!financial institutions from unlawful activities. Your journey to a fulfilling and impactful career in financial security begins here!
-                    </p>
-                  </div>
-                  <div class="modal-footer">
-                    <a href="https://docs.google.com/forms/d/1zuHofAaL2AAQl9mUsXlwvb1UaqmkY2BYIE4IkZD21Nc/edit" class="btn btn-secondary">Enroll Now</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-
-          </div>
-
-          <div class="tab-pane" id="tab-3">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Auxiliary Services</h3>
-                </p>
-                  <p>BIR Tax Compliances: Our dedicated team assists freelancers, business owners, and the self-employed in filing taxes, easing bookkeeping burdens. </p>
-
-                  <ul>
-                    <li><a href="" data-bs-toggle="modal" data-bs-target="#businessModal"><i class="bi bi-caret-right-fill"></i> Business Solutions and Tax Filing Services</a></li>
-                  </ul>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/auxiliary.jpg" alt="" class="img-fluid">
-              </div>
-            </div>
-
-            <div class="modal fade" id="businessModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-              <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="modal-title fs-5">Business Solutions and Tax Filing Services</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <ul>
-                      <li><a href="bir-tax-filing.php"><i class="bi bi-caret-right-fill"></i> BIR Tax Filing Assistance</a></li>
-                      <li><a href="#"><i class="bi bi-caret-right-fill"></i> Business Registration</a></li>
-                    </ul>
-
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Features Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="whyChooseUs" class="team">
+    <section id="whyChooseUs" style="color:white; min-height:500px; background: url(assets/img/why_choose.jpg); background-repeat: no-repeat;background-size: 100% 100%;">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <p>Why Choose Maxicore Philippines</p>
+          <h3>Why Choose Maxicore Philippines</h3>
         </div>
 
         <div class="row">
@@ -394,11 +248,11 @@
 
 
         <!-- ======= Testimonials Section ======= -->
-        <section class="section-even">
+        <section>
           <div class="container" data-aos="zoom-in">
 
             <div class="choose-maxicore">
-              <p>
+              <p style="font-size:20px;margin-top:-5px">
                 Choose Maxicore Philippines for a partnership that transcends traditional outsourcing. Experience the Maxicore advantage - Maximizing Core Potential for unparalleled business success and growth!
               </p>
             </div>
@@ -406,53 +260,41 @@
           </div>
         </section><!-- End Testimonials Section -->
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
+    <section id="contact" class="contact section-even">
+      <div class="container" data-aos="fade-up"  data-aos-delay="600">
 
     <div class=" section-title">
-        <p>Contact Us</p>
+        <h3>Contact Us</h3>
       </div>
 
-      <div class="row">
+      <div class="row"> 
+        <div  data-aos="fade-up" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/location.png); background-repeat: no-repeat;background-size: 100% 100%;">
+    
+            <h3 style="margin-top:100px" >Our Address</h3>
+          <div>Villa Angela, Bacolod City, Negros Occidental, Philippines 6100</div>
+      </div>
 
-        <div class="col-lg-12">
-
-          <div class="row">
-            <div class="col-md-4">
-              <div class="info-box">
-                <i class="bx bx-map"></i>
-                <h3>Our Address</h3>
-                <div>Villa Angela, Bacolod City, Negros Occidental, Philippines 6100</div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info-box">
-                <i class="bx bx-envelope"></i>
-                <h3>Email Us</h3>
+      
+      <div  data-aos="fade-up"  data-aos-delay="300" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/email.png); background-repeat: no-repeat;background-size: 100% 100%;">
+      <h3 style="margin-top:100px" >Email Us</h3>
                 <div>
-                  operations@maxicoreph.com
+                maxicorephilippines@maxicoreph.com
                 </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="info-box">
-                <i class="bi bi-facebook"></i>
-                <h3>Maxicore Philippines</h3>
-                <div>
-                  <a href="https://www.facebook.com/maxicorephilippines" target="_blank">Click here</a>
-                </div>
-              </div>
-            </div>
-          </div>
+      </div>
 
+      
+      <div data-aos="fade-up"  data-aos-delay="600" class="col-md-4 text-center" style="min-height: 250px; background: url(assets/img/contact.png); background-repeat: no-repeat;background-size: 100% 100%;">
+      <h3 style="margin-top:100px" >Contact Number</h3>
+                <div>+638981019482
+                </div>
+    </div>
+
+      </div>
         </div>
 
-      </div>
-
-      </div>
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
 
 
-<?php include "altn-footer.php"; ?>
+<?php include "footer.php"; ?>
